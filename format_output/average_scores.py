@@ -3,7 +3,7 @@ Program: average_scores.py
 Author: Michael Moore
 Last Date Modified: 9/12/20
 
- This program takes 3 tests input and return and average of them.
+This program takes 3 tests input and return and average of them.
 """
 def average():
     score1 = int(input("Enter 1st Test Score: "))
