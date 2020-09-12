@@ -6,4 +6,4 @@ def average():
     return (score1 + score2 + score3) / 3
 
 
-
+#hello
